@@ -1,0 +1,3 @@
+- On my mac, I just do "python file_server.py" to run the server
+- Tested the server using Google Chrome extension YARC: http://yet-another-rest-client.com/
+- Also included in this package is an export file containing the test REST API calls, which can be imported into the above extension.
